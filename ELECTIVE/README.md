@@ -4,8 +4,8 @@
   https://github.com/harryanst/CEID_SEMESTERS_7_8/tree/main/8th%20Semester/%CE%95%CF%80%CE%B9%CE%BB%CE%BF%CE%B3%CE%AE%CF%82%20%CE%95%CE%B1%CF%81%CE%B9%CE%BD%CE%BF%CF%8D/%CE%91%CF%83%CF%86%CE%AC%CE%BB%CE%B5%CE%B9%CE%B1%20%CF%83%CF%84%CE%BF%20%CE%A5%CE%BB%CE%B9%CE%BA%CF%8C
 
 
-ΕΠΙΛΟΓΗΣ 5ου ΕΤΟΥΣ:
-ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ
+ΕΠΙΛΟΓΗΣ 5ου ΕΤΟΥΣ:                                                                                                       <br>
+ΧΕΙΜΕΡΙΝΟ ΕΞΑΜΗΝΟ                                                                                                         <br>
 2.) Τεχνολογίες και Αλγόριθμοι Αποκεντρωμένων Δεδομένων                 Σιούτας                                           <br>
 3.) Ανάκτηση Πληροφορίας                                                Μακρής   45% project 55% finals                   <br>
 4.) Αλγόριθμοι και Συνδυαστική Βελτιστοποίηση		                        Ζαρολιάγκης                                       <br>
